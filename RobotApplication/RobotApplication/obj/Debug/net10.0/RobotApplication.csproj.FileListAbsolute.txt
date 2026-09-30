@@ -1,0 +1,14 @@
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\bin\Debug\net10.0\RobotApplication.exe
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\bin\Debug\net10.0\RobotApplication.deps.json
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\bin\Debug\net10.0\RobotApplication.runtimeconfig.json
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\bin\Debug\net10.0\RobotApplication.dll
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\bin\Debug\net10.0\RobotApplication.pdb
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.AssemblyInfoInputs.cache
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.AssemblyInfo.cs
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.dll
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\refint\RobotApplication.dll
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.pdb
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\RobotApplication.genruntimeconfig.cache
+C:\Users\Dulaj Hewavithana\source\repos\RobotApplication\RobotApplication\obj\Debug\net10.0\ref\RobotApplication.dll
